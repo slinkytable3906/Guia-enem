@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>O Guia Completo para Platinar o ENEM</title>
+    <style>
+      body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f3f4f6;
+        color: #111827;
+        margin: 0;
+        padding: 0;
+      }
+
+      header {
+        background-color: #2563eb;
+        color: white;
+        padding: 2rem;
+        text-align: center;
+      }
+
+      main {
+        padding: 2rem;
+        max-width: 800px;
+        margin: auto;
+        background: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        border-radius: 12px;
+      }
+
+      h1,
+      h2,
+      h3 {
+        color: #1e3a8a;
+      }
+
+      .cta-button {
+        display: block;
+        background-color: #10b981;
+        color: white;
+        text-align: center;
+        padding: 1rem;
+        text-decoration: none;
+        font-size: 1.2rem;
+        border-radius: 8px;
+        margin-top: 2rem;
+        transition: background-color 0.3s ease;
+      }
+
+      .cta-button:hover {
+        background-color: #059669;
+      }
+
+      .highlight {
+        background: #fef08a;
+        padding: 0.2rem 0.5rem;
+        border-radius: 4px;
+      }
+
+      .bonus,
+      .testimonials {
+        background: #f9fafb;
+        padding: 1rem;
+        border-left: 4px solid #10b981;
+        margin-top: 1.5rem;
+        border-radius: 8px;
+      }
+
+      ul {
+        padding-left: 1.2rem;
+      }
+
+      ul li {
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>O GUIA COMPLETO PARA PLATINAR O ENEM</h1>
+      <p>
+        A metodologia certa para tirar a nota máxima e conquistar sua vaga na
+        faculdade dos sonhos
+      </p>
+    </header>
+
+    <main>
+      <h2>
+        Você quer só passar no ENEM... ou quer
+        <span class="highlight">PLATINAR</span> o ENEM?
+      </h2>
+      <p>
+        Se a sua meta é <strong>atingir a nota máxima</strong>, se destacar na
+        redação, acertar mais questões e garantir sua aprovação, então você
+        está no lugar certo.
+      </p>
+
+      <h2>✅ O que você vai aprender:</h2>
+      <ul>
+        <li>Organizar seus estudos com cronogramas prontos e ajustáveis</li>
+        <li>Dominar a redação com técnicas para alcançar os 1000 pontos</li>
+        <li>Usar métodos de memorização e revisão acelerada</li>
+        <li>Resolver questões com inteligência e eficiência</li>
+        <li>Controlar o emocional e ter alto desempenho no dia da prova</li>
+      </ul>
+
+      <h2>📚 Conteúdo 100% prático e direto ao ponto</h2>
+      <p>
+        Sem enrolação. Sem fórmulas mágicas. Tudo testado e comprovado por quem
+        já passou pelo ENEM e venceu.
+      </p>
+
+      <h3>Ideal para:</h3>
+      <ul>
+        <li>Estudantes do ensino médio ou EJA</li>
+        <li>Quem vai fazer o ENEM pela primeira vez</li>
+        <li>Quem já tentou e não teve o resultado esperado</li>
+      </ul>
+
+      <div class="bonus">
+        <h3>🎁 BÔNUS EXCLUSIVO:</h3>
+        <ul>
+          <li>Modelo de cronograma semanal editável</li>
+          <li>Checklist de revisão final</li>
+          <li>Simulado PDF com gabarito comentado</li>
+        </ul>
+      </div>
+
+      <div class="testimonials">
+        <h3>💬 Depoimentos:</h3>
+        <p>
+          <em
+            >“Esse guia mudou minha forma de estudar. Saí do caos para a
+            organização total. Recomendo!”</em
+          ><br />— Lucas, 18 anos, Fortaleza
+        </p>
+        <p>
+          <em
+            >“Com esse e-book, entendi onde eu errava e melhorei 200 pontos na
+            minha nota do simulado.”</em
+          ><br />— Amanda, 20 anos, São Paulo
+        </p>
+      </div>
+
+      <a href="#" class="cta-button">QUERO COMEÇAR AGORA</a>
+
+      <p
+        style="
+          text-align: center;
+          font-size: 0.9rem;
+          margin-top: 1rem;
+          color: #4b5563;
+        "
+      >
+        📥 Acesso imediato | 📱 Leitura em qualquer dispositivo | 🔒 Compra segura
+      </p>
+    </main>
+  </body>
+</html>
